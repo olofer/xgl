@@ -1,2 +1,2 @@
 # xgl
-Utilities for high-order quadrature, interpolation, and differentition
+Utilities for high-order quadrature, interpolation, and differentiation
